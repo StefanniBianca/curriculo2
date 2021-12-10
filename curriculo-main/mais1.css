@@ -1,0 +1,13 @@
+style
+
+
+.de {
+
+border: 2px rgb(19, 19, 63);
+width: 200px;
+height: 200px;
+}
+img {
+width: 200px;
+border-radius: 35px;
+}
